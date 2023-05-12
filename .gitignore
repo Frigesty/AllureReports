@@ -37,4 +37,3 @@ target/
 .project
 .settings/org.eclipse.buildship.core.prefs
 .vscode
-/gradlew.bat
